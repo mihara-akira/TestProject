@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\Owner\Downloads\サンプル2\サンプル2\main.cpp(18): warning C4715: 'WinMain': 値を返さないコントロール パスがあります。
-  Project1.vcxproj -> C:\Users\Owner\Downloads\サンプル2\サンプル2\x64\Debug\Project1.exe
